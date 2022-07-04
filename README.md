@@ -1,8 +1,5 @@
-- 👋 Hi, I’m cheng
-- 👀 I’m interested in watching tv.
+- 👋 Hi, I’m chengtao
 - 🌱 I’m learning java. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 chengsecret/chengsecret is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
