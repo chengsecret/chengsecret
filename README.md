@@ -1,5 +1,6 @@
 - 👋 Hi, I’m chengtao
 - 🌱 I’m learning java. 
+looking forword to your communication！
 
 <!---
 chengsecret/chengsecret is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
