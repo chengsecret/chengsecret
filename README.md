@@ -1,6 +1,4 @@
-- 👋 Hi, I’m chengtao
-- 🌱 focus on java and cloud native.
-- 👋 want to participate in open source.
+- 👋 Hi, I’m cheng
 - 🌱 blog at https://blog.koisecret.site/.
 
 looking forword to your communication！
