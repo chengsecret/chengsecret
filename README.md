@@ -1,5 +1,5 @@
  - 👋 Hi, I’m Liaoyuan
-- 🌱 blog at https://blog.koisecret.site/.
+- 🌱 blog at https://blog.liaoyuaner.cn/.
 
 looking forword to your communication！
 
